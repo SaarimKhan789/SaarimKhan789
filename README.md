@@ -7,19 +7,19 @@
 
 # 💫 About Me:
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-  <strong>Hi I am Saarim Khan</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+  <span style="font-size: 22px;"><strong>Hi I am Saarim Khan</strong></span>
 </p>
 
-
-
-
+<p style="font-size: 18px;">
 🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
 📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
 🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps<br>
 👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes<br>
 💬 Ask me about web development, backend APIs, MERN stack, or NLP applications<br>
-⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!<br>
+⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khan_saarim786/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saarim-khan-312a02189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saarimkhan64838@gmail.com) 
