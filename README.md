@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
 
 ![Hi, my name is Saarim Khan](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
 
