@@ -1,13 +1,12 @@
 # 💫 About Me:
 # Hi I am Saarim Khan 
-👋 Hi there! I'm Saarim Khan
-🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi
-👨‍💻 Previously worked at Accenture as an Associate Software Engineer (MERN Stack)
-📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions
-🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps
-👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes
-💬 Ask me about web development, backend APIs, MERN stack, or NLP applications
-⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!
+👋 Hi there! I'm Saarim Khan<br>
+🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
+📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
+🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps<br>
+👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes<br>
+💬 Ask me about web development, backend APIs, MERN stack, or NLP applications<br>
+⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!<br>
 
 
 ## 🌐 Socials:
