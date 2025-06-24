@@ -1,4 +1,5 @@
 # 💫 About Me:
+# Hi I am Saarim Khan 
 🔭 I’m currently pursuing an M.Tech in Computer Science and Engineering at IIIT Delhi<br>👯 I’m looking to collaborate on innovative and impactful projects<br>🌱 I’m currently learning React and modern frontend development practices<br>💬 Ask me about full-stack development, NLP, or open-source contributions<br>⚡ Fun fact: I love debugging complex issues—it’s like solving a mystery puzzle!
 
 
