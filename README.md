@@ -1,17 +1,17 @@
 
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="800">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 
 # 💫 About Me:
 # 👋  Hi I am Saarim Khan 
 
 🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
-📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions
-🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps
-👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes
-💬 Ask me about web development, backend APIs, MERN stack, or NLP applications
-⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!
+📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
+🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps<br>
+👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes<br>
+💬 Ask me about web development, backend APIs, MERN stack, or NLP applications<br>
+⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khan_saarim786/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saarim-khan-312a02189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saarimkhan64838@gmail.com) 
