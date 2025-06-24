@@ -24,7 +24,19 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram,&perline=15)](https://instagram.com/https://www.instagram.com/khan_saarim786/?hl=en) [![LinkedIn](https://skillicons.dev/icons?i=linkedin,&perline=15)](https://linkedin.com/in/https://www.linkedin.com/in/saarim-khan-312a02189/) [![email](https://skillicons.dev/icons?i=gmail,&perline=15)](mailto:saarimkhan64838@gmail.com) 
+
+<p>
+  <a href="https://www.instagram.com/khan_saarim786/?hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saarim-khan-312a02189/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:saarimkhan64838@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,bootstrap,html,css,tailwind,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,&perline=15)](https://skillicons.dev)
