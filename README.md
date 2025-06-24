@@ -40,28 +40,12 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,bootstrap,html,css,tailwind,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,&perline=13)](https://skillicons.dev)
-# Coding Profiles
-<p>
-  <a href="https://leetcode.com/SaarimKhan" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SaarimKhan" width="400" height="220" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/saarimkhan515/" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/saarimkhan515" width="400" height="220" />
-  </a>
-</p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=SaarimKhan789&theme=github_dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=SaarimKhan789&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-
-# 🔝 Top Contributed Repo
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=SaarimKhan789&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
