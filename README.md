@@ -28,10 +28,10 @@
 <p>
   <a href="https://www.instagram.com/khan_saarim786/?hl=en" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/saarim-khan-312a02189/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
+  </a>  &nbsp;
   <a href="mailto:saarimkhan64838@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
