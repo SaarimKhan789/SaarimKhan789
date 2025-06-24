@@ -6,7 +6,13 @@
 </div>
 
 # 💫 About Me:
-# 👋  Hi I am Saarim Khan 
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  <strong>Hi I am Saarim Khan</strong>
+</p>
+
+
+
 
 🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
 📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
