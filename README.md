@@ -35,7 +35,7 @@
 </p>
 
 
-# 💻 Tech Stack(Tools and Technologies):
+# 💻 My Tech Stack(Tools and Technologies):
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,express,bootstrap,html,css,tailwind,androidstudio,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,vercel,&perline=13)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
