@@ -18,7 +18,7 @@
 📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
 🌱 Currently exploring React,machine learning<br>
 👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes<br>
-💬 Ask me about web development, backend APIs, MERN stack, or NLP applications<br>
+💬 Ask me about web development, backend APIs, MERN stack, or NLP applications,machine learning<br>
 ⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!
 </p>
 
