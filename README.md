@@ -24,7 +24,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SaarimKhan789&theme=github_dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<h4 align="right">🔝 Top Contributed Repo</h4>
+
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaarimKhan789&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 
