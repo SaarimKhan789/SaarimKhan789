@@ -6,10 +6,10 @@
 </div>
 
 # 💫 About Me:
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" style="vertical-align: middle;" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" style="vertical-align: middle;" />
   <span style="font-size: 20px; font-weight: 600;">Hi I am Saarim Khan</span>
-</h2>
+</h1>
 
 
 
