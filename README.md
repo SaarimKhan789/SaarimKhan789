@@ -39,7 +39,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,bootstrap,html,css,tailwind,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,express,bootstrap,html,css,tailwind,androidstudio,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,vercel,&perline=13)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=SaarimKhan789&theme=github_dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
