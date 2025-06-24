@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khan_saarim786/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saarim-khan-312a02189/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saarimkhan64838@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram,&perline=15)](https://instagram.com/https://www.instagram.com/khan_saarim786/?hl=en) [![LinkedIn](https://skillicons.dev/icons?i=linkedin,&perline=15)](https://linkedin.com/in/https://www.linkedin.com/in/saarim-khan-312a02189/) [![email](https://skillicons.dev/icons?i=gmail,&perline=15)](mailto:saarimkhan64838@gmail.com) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,bootstrap,html,css,tailwind,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,&perline=15)](https://skillicons.dev)
