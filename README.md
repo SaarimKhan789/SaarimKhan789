@@ -40,6 +40,8 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,react,bootstrap,html,css,tailwind,linux,docker,kubernetes,firebase,flask,git,github,mongodb,mysql,postman,vscode,eclipse,&perline=13)](https://skillicons.dev)
+# LeetCode Profile
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SaarimKhan)](https://leetcode.com/u/SaarimKhan)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaarimKhan789&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true) 
 
