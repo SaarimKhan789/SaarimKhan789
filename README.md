@@ -1,5 +1,6 @@
 # 💫 About Me:
 # Hi I am Saarim Khan 
+[👋](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
 👋 Hi there! I'm Saarim Khan<br>
 🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
 📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
