@@ -43,7 +43,7 @@
 # Coding Profiles
 <p>
   <a href="https://leetcode.com/SaarimKhan" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SaarimKhan" width="600" height="220" />
+    <img src="https://leetcard.jacoblin.cool/SaarimKhan" width="400" height="220" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/saarimkhan515/" target="_blank">
     <img src="https://gfgstatscard.vercel.app/saarimkhan515" width="400" height="220" />
