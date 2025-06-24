@@ -1,4 +1,5 @@
-<img src="https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide_To_Get_Started_With_Learning_Block_Coding.jpg" alt="Block Coding" width="600"/>
+![Block Coding](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide_To_Get_Started_With_Learning_Block_Coding.jpg)
+
 # 💫 About Me:
 # Hi I am Saarim Khan 
 
