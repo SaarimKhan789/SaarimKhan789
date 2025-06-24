@@ -5,12 +5,12 @@
 # 💫 About Me:
 # 👋  Hi I am Saarim Khan 
 
-<h4 align="left">🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi</h4>
-<h4 align="left">📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions</h4>
-<h4 align="left">🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps</h4>
-<h4 align="left">👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes</h4>
-<h4 align="left">💬 Ask me about web development, backend APIs, MERN stack, or NLP applications</h4>
-<h4 align="left">⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!</h4>
+🔭 I’m currently pursuing M.Tech in Computer Science and Engineering at IIIT Delhi<br>
+📚 I’m passionate about full-stack web development, machine learning, and building meaningful tech solutions<br>
+🌱 Currently exploring React, TailwindCSS, and Flask for dynamic web apps<br>
+👯 I’m looking to collaborate on impactful open-source projects and research-driven prototypes<br>
+💬 Ask me about web development, backend APIs, MERN stack, or NLP applications<br>
+⚡ Fun fact: I love optimizing and re-architecting projects to make them 10x smoother and faster!<br>
 
 
 ## 🌐 Socials:
