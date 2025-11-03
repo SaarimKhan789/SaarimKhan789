@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500" alt="Cool gif">
 </div>
 
@@ -45,4 +45,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=SaarimKhan789&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
